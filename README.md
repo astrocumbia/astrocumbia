@@ -1,6 +1,5 @@
-### Hi there 👋
+### astrocumbia
 
-- 🔭 I’m currently working on Android development
 
 <!--
 **astrocumbia/astrocumbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
