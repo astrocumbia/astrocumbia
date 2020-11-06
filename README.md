@@ -1,6 +1,7 @@
 # astrocumbia
 
-I'm a software engineer 👨🏽‍💻, The last 4 years I have been working as a mobile developer 📱 in different Startups in Mexico city.
+I'm a software engineer 👨🏽‍💻.
+The last 4 years I have been working as a mobile developer 📱 in different Startups in Mexico city.
 <!--
 **astrocumbia/astrocumbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
